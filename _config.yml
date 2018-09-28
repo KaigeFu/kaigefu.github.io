@@ -17,7 +17,7 @@ myblog:
   gpname: KaigeFu
 #  linkedin: http://www.linkedin.com/in/taotaoli
   github: https://github.com/kaigefu
-  email: kaige.fu@intel.com
+  email: mailto:kaige.fu@intel.com
   coverimgs: []
   postbgimg: []
 

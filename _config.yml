@@ -1,0 +1,24 @@
+# auto: true
+
+markdown: kramdown
+highlighter: rouge
+paginate: 8
+permalink: /:title
+encoding: UTF-8
+plugins: [jekyll-paginate]
+
+title: Kaige's blackboard
+url: http://kaige.github.io
+feed: /atom.xml
+author_info: <a href="http://kaigefu.github.io/">kaigefu</a>
+
+myblog:
+  gavatar: images/2.jpg
+  gpname: KaigeFu
+#  linkedin: http://www.linkedin.com/in/taotaoli
+#  github: https://github.com/litaotao
+#  email: mailto:taotao.engineer@gmail.com
+  coverimgs: []
+  postbgimg: []
+
+categories: [python, books]
